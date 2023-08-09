@@ -9,7 +9,7 @@ Add the following script to your composer file:
 ```json
 {
   "pint": [
-    "@php vendor/bin/pint --config https://github.com/DIJ-digital/pint-config/blob/main/pint.json"
+    "@php vendor/bin/pint --config https://raw.githubusercontent.com/DIJ-digital/pint-config/main/pint.json"
   ]
 }
 ```
