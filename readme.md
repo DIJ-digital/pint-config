@@ -4,7 +4,7 @@ This repo contains our default pint configuration and is used by our projects.
 
 ## Requirements
 * PHP ^8.1
-* Pint ^10.10.6
+* Pint ^1.10.6
 
 ## Installation
 
