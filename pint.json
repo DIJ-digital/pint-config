@@ -42,6 +42,6 @@
     "use_arrow_functions": true,
     "statement_indentation": true,
     "indentation_type": true,
-    "use_nullable_type_declaration": true
+    "nullable_type_declaration": true
   }
 }
