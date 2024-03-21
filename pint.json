@@ -6,7 +6,6 @@
       "property": "single"
     },
     "no_useless_else": true,
-    "declare_strict_types": true,
     "array_syntax": {
       "syntax": "short"
     },
