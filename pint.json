@@ -5,6 +5,10 @@
       "const": "single",
       "property": "single"
     },
+    "phpdoc_align": {
+      "align": "left",
+      "spacing": 1
+    },
     "no_useless_else": true,
     "declare_strict_types": true,
     "array_syntax": {
