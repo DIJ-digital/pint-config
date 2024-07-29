@@ -94,6 +94,11 @@
       "anonymous_class": true,
       "named_class": true
     },
-    "yoda_style": false
+    "yoda_style": false,
+    "phpdoc_tag_type": {
+      "tags": {
+        "inheritdoc": "annotation"
+      }
+    }
   }
 }
