@@ -89,6 +89,10 @@
     "visibility_required": {
       "elements": ["const", "property", "method"]
     },
-    "single_line_empty_body": false
+    "single_line_empty_body": false,
+    "new_with_parentheses": {
+      "anonymous_class": true,
+      "named_class": true
+    }
   }
 }
