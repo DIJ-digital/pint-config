@@ -62,7 +62,6 @@
     "no_break_comment": {
       "comment_text": "no break"
     },
-    "no_trailing_comma_in_list_call": true,
     "multiline_whitespace_before_semicolons": {
       "strategy": "no_multi_line"
     },
