@@ -86,8 +86,9 @@
     "constant_case": {
       "case": "lower"
     },
-    "visibility_required":{
+    "visibility_required": {
       "elements": ["const", "property", "method"]
-    }
+    },
+    "single_line_empty_body": false
   }
 }
