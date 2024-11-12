@@ -99,6 +99,7 @@
       "tags": {
         "inheritdoc": "annotation"
       }
-    }
+    },
+    "single_space_around_construct": true
   }
 }
