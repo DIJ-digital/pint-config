@@ -9,6 +9,7 @@
       "align": "left",
       "spacing": 1
     },
+    "no_empty_phpdoc": true,
     "no_useless_else": true,
     "array_syntax": {
       "syntax": "short"
@@ -98,6 +99,7 @@
       "tags": {
         "inheritdoc": "annotation"
       }
-    }
+    },
+    "single_space_around_construct": true
   }
 }
